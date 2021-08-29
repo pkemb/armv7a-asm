@@ -81,16 +81,6 @@ GAS语法：
 6. [ARM Compiler armasm User Guide](https://developer.arm.com/documentation/dui0473/m/dom1359731141352)
 7. 9.4 ARM Dependent Features, https://doc.ecoscentric.com/gnutools/doc/as.pdf
 
-# 4. 汇编语言程序范例
-
-选择一个合适的demo程序演示。TODD。
-* 调用系统调用，https://man7.org/linux/man-pages/man2/syscall.2.html
-* 调用库函数
-
-示例：
-* [hello_syscall.s](code/sample/hello_syscall.s)
-* [hello_glibc.s](code/sample/hello_glibc.s)
-
 # 参考资料
 
 1. [ARM Architecture Reference Manual ARMv7-A and ARMv7-R edition](https://developer.arm.com/documentation/ddi0406/latest)
