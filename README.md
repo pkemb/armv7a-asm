@@ -2,15 +2,6 @@
 
 模仿`Richard Blum`的《汇编语言程序设计》，将书中`IA-32`相关的内容，基于`ARMv7-A/R`架构、`Cortex-A7`处理器核心改写。同样是基于`Linux`系统，不考虑裸机程序。内容结构主体上保持不变，会增加`ARMv7-A/R`架构特有的内容，删除`ARMv7-A/R`没有的内容。
 
-# 1. 什么是汇编语言
-
-TODO。学习ARM指令编码后再改写。
-
-* Chapter A5 ARM Instruction Set Encoding
-* Chapter A6 Thumb Instruction Set Encoding
-* Chapter A7 Advanced SIMD and Floating-point Instruction Encoding
-* Chapter A9 The ThumbEE Instruction Set
-
 # 2. Cortex-A7处理器
 
 TODO。主要包括以下内容：
